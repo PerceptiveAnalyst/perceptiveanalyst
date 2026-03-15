@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shoaib Mohammed</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">An Experienced Data Analyst</h3>
 
 <img align = "right" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Azure Data Engieering, Data Pipelines Building**
 
 - 👯 I’m looking to collaborate on **Data Engineering tasks**
 
@@ -18,11 +18,11 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 💬 Ask me about **Python, Data Science, SQL and Tableau**
+- 💬 Ask me about **Python, Data Science, SQL and Tableau, PowerBi**
 
 - 📫 How to reach me **sho_aib_mohd@outlook.com**
 
-- 📄 Year(s) of experience **7 years of experience as a Data Analyst**
+- 📄 Year(s) of experience **10 years of experience as a Data Analyst**
 
 - ⚡ Fun fact **perceptive thinker**
 
